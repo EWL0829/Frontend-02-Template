@@ -4,7 +4,7 @@
 ![前端学习.png](https://i.loli.net/2020/07/05/tzYiEx9J4RUQk1K.png)
 
 ### 关于前端学习知识体系的整理
-![前端技术.png](https://i.loli.net/2020/07/05/cDXsyP713jbeaIJ.png)
+![前端技术-min.png](https://i.loli.net/2020/07/08/WNmCGq3Yi2LoScH.png)
 
 ### 学习总结
 本周的内容主要是前端学习的知识体系建立，在整理书籍目录的时候，我想的相对比较简单也比较粗浅，后来
