@@ -21,6 +21,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,11 +39,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593954137920</updated>
-      <workItem from="1593954139537" duration="599000" />
+      <workItem from="1593954139537" duration="6732000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="73" key="SettingsEditor" timestamp="1593955323456">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="221" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1593955323456" />
+    <state x="380" y="245" key="git4idea.merge.GitPullDialog" timestamp="1595162530666">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="380" y="245" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1595162530666" />
   </component>
 </project>
